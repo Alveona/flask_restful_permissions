@@ -1,5 +1,5 @@
 # flask_restful_permissions
-Template project for demonstration of using access groups with Flask_Restful and mongoengine
+Template project for demonstration of using access groups with Flask_Restful and mongoengine  
 Supports global permissions for public resources and whitelists of user access groups for reading, writing, managing private resources
 
 ### Usage 
