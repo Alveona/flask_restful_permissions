@@ -1,0 +1,5 @@
+.vscode
+venv
+connection.py
+*__pycache__
+profile.svg
