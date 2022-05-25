@@ -17,7 +17,7 @@ mongoengine==0.19.1
 mongoengine-goodjson==1.1.7
 py-spy==0.3.2
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.4.4
 pylint-mongoengine==0.4.0
 pylint-plugin-utils==0.6
